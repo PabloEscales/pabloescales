@@ -1,4 +1,4 @@
-# Welcome! <img data-target="animated-image.replacedImage" alt="gif hello" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="display: block; opacity: 1;"> I'm Biyo, Full Stack Developer.
+# Welcome! I'm Biyo, Full Stack Developer <img data-target="animated-image.replacedImage" alt="gif hello" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="display: block; opacity: 1;">
 
 ### Languages and Tools:
 
