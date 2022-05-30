@@ -13,6 +13,6 @@
 <a href="https://www.linkedin.com/in/pabloescales/" rel="nofollow"><img align="center" src="https://camo.githubusercontent.com/28bbd2596707954793abeff9eb24d343c1c78b7bf184b90294b4b190c6097a65/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e7340332e302e312f69636f6e732f6c696e6b6564696e2e737667" alt="maximiliano amodei" height="30" width="40" data-canonical-src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" style="max-width: 100%;"></a>
 
 
-<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAQCAYAAAAf8/9hAAAAAXNSR0IArs4c6QAAAL5JREFUOE/N0yFuQlEQheEPUYGhglUUHCvAVaFZAQhISDC11ThomraLwJIg2UMNYQ0YHIKEZprBkLy+wDMdN5M5f+6ZmVtTMWoV9QLwiu6doE0AzneKf2UB6OAF/RtBS8wC8IgDmpgm7KEAdsI8hNijcbHwhQ98p3CQsKfMd1hkT5RaGGN0PYM13rFK4XPajHpE5CHsXV5YNMQt3vCZjUNM0L62VraFY26pXjTgMkDpYv4HoPIpl/r8q6Hyb/wBn3YhScOnCpgAAAAASUVORK5CYII="/>
+<img class="img-fluid" src="https://www.iconpacks.net/icons/3/free-mail-icon-5714.png" width="90" height="90" alt="Mail icon">
 
 ### pabloescales@gmail.com
