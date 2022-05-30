@@ -1,4 +1,4 @@
-## 👋 Welcome! I'm Biyo, Full Stack Developer.
+# 👋 Welcome! I'm Biyo, Full Stack Developer.
 
 ### 💎 I'm working and improving in the technologies: 
  
