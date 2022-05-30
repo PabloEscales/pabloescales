@@ -1,6 +1,6 @@
 # Welcome! <img data-target="animated-image.replacedImage" alt="gif hello" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="display: block; opacity: 1;"> I'm Biyo, Full Stack Developer.
 
-### 👀 I'm currently taking my first steps in this technology and programming career.
+### Languages and Tools:
 
 <img height="180em" src="https://camo.githubusercontent.com/bf38836570907ff84ef44f6a3308688c72fbe0ec8d3f8b3caefb6bd1c914cbb9/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d6b6172656e62616e6369266c61796f75743d636f6d70616374266c616e67735f636f756e743d37267468656d653d64726163756c61" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=pabloescales&amp;layout=compact&amp;langs_count=7&amp;theme=dracula" style="max-width: 100%;">
 
