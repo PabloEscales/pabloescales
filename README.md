@@ -11,4 +11,4 @@
 ### Contact me:
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuqing-w-b54a878b" height="30" width="40" style="max-width: 100%;">
 
-<a https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white></a> pabloescales@gmail.com
+<img src="https://res.cloudinary.com/practicaldev/image/fetch/s--C75QF96b--/c_limit%2Cf_auto%2Cfl_progressive%2Cq_auto%2Cw_880/https://img.shields.io/badge/Gmail-D14836%3Fstyle%3Dfor-the-badge%26logo%3Dgmail%26logoColor%3Dwhite" loading="lazy" width="83" height="28"> pabloescales@gmail.com
