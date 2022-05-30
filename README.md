@@ -2,8 +2,3 @@
 
 ### 👀 I'm currently taking my first steps in this technology and programming career.
 ### 👩‍🎓 Graduated in Le Wagon.
-
- 
-### 📚 And I'm studying:
-
-
