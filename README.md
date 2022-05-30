@@ -1,37 +1,10 @@
+# Welcome, I'm Biyo, a Full Stack Developer.
+
+### Currently I'm improving my skills as a programmer and learning new technologies. I enjoy ⚽ 🐕 💺.</p>
+
 ### Languages and Tools:
+
 <p align="left" dir="auto"> <a href="https://www.w3schools.com/css/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.figma.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/ed93c2b000a76ceaad1503e7eb9356591b885227e82a36a005b9d3498b303ba5/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667" alt="figma" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" style="max-width: 100%;"> </a> <a href="https://heroku.com" rel="nofollow"> <img src="https://camo.githubusercontent.com/df12cb598044a3f38efc1f45e3580558c324cf8789b79487125044eeebcc4dee/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6865726f6b752f6865726f6b752d69636f6e2e737667" alt="heroku" width="40" height="40" data-canonical-src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" style="max-width: 100%;"> </a> <a href="https://www.w3.org/html/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.mysql.com/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.postgresql.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://rubyonrails.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rails/rails-original-wordmark.svg" alt="rails" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://redis.io" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://www.ruby-lang.org/en/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://webpack.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://trello.com/es" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://git-scm.com/" rel="nofollow"> <img src="https://camo.githubusercontent.com/fbfcb9e3dc648adc93bef37c718db16c52f617ad055a26de6dc3c21865c3321d/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6769742d73636d2f6769742d73636d2d69636f6e2e737667" alt="git" width="40" height="40" style="max-width: 100%;"> </a> </p>
 
 ### Contact me:
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuqing-w-b54a878b" height="30" width="40" style="max-width: 100%;">
-
-
-
-<div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text">
-</div>
- <h3 dir="auto"><a id="user-content-hey--im-abhishek" class="anchor" aria-hidden="true" href="#hey--im-abhishek"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Welcome, I'm Biyo, a Full Stack Developer from Argentina, currently I'm improving my skills as a programmer and learning new technologies. I enjoy ⚽ 🐕 💺.</p>
-  <p>   <span class="AnimatedImagePlayer" data-target="animated-image.player">
-        <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" target="_blank" hidden="">
-          
-        </a>
-        <button data-target="animated-image.imageButton" class="AnimatedImagePlayer-images" tabindex="-1" aria-label="Play GIF"><span data-target="animated-image.imageContainer">
-            <img data-target="animated-image.replacedImage" alt="GIF" class="AnimatedImagePlayer-animatedImage" src="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" style="display: block; opacity: 1;">
-          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="480" height="270"></canvas></span></button>
-        <span class="AnimatedImagePlayer-controls" data-target="animated-image.controls">
-          <button data-target="animated-image.playButton" class="AnimatedImagePlayer-button" aria-label="Play GIF">
-            <svg aria-hidden="true" focusable="false" class="octicon icon-play" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
-              <path d="M4 13.5427V2.45734C4 1.82607 4.69692 1.4435 5.2295 1.78241L13.9394 7.32507C14.4334 7.63943 14.4334 8.36057 13.9394 8.67493L5.2295 14.2176C4.69692 14.5565 4 14.1739 4 13.5427Z">
-            </path></svg>
-            <svg aria-hidden="true" focusable="false" class="octicon icon-pause" width="16" height="16" viewBox="0 0 16 16" xmlns="http://www.w3.org/2000/svg">
-              <rect x="4" y="2" width="3" height="12" rx="1"></rect>
-              <rect x="9" y="2" width="3" height="12" rx="1"></rect>
-            </svg>
-          </button>
-          <a data-target="animated-image.openButton" aria-label="Open GIF in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/1c599fd918f649ead173975ee0cb6ce72c47d2765e2813f608f7282a74407e26/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f38333648694a633770677a7938694e58436e2f67697068792e676966" target="_blank">
-            <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-              <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
-            </svg>
-          </a>
-        </span>
-      </span></animated-image></p>
-  </div>
