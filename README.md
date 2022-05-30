@@ -8,30 +8,8 @@
 
 
 <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><table>
-  <thead>
-  <tr>
-  <th>title</th>
-  <th>date</th>
-  <th>spoiler</th>
-  <th>categories</th>
-  <th>githubUsername</th>
-  </tr>
-  </thead>
-  <tbody>
-  <tr>
-  <td><div dir="auto">abhisheknaiidu</div></td>
-  <td><div dir="auto">2020-14-05</div></td>
-  <td><div dir="auto">Dynamic Realtime Readme Template</div></td>
-  <td><div dir="auto"><table>
-  <tbody>
-  <tr>
-  <td><div dir="auto">dynamic-realtime</div></td>
-  <td><div dir="auto">all-profile</div></td>
-  </tr>
-  </tbody>
-</table>
-</div></td>
+    <article class="markdown-body entry-content container-lg" itemprop="text">
+</div>
   <td><div dir="auto">abhisheknaiidu</div></td>
   </tr>
   </tbody>
