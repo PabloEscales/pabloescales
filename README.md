@@ -1,5 +1,7 @@
-# Welcome! I'm Biyo, Full Stack Developer <img data-target="animated-image.replacedImage" alt="gif hello" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="display: block; opacity: 1;">
-
+<span data-target="animated-image.imageContainer">
+            <img data-target="animated-image.replacedImage" alt="Hey there, I'm Cyris. I'm a software developer, a maker and infosec enthusiast. Check out my work" class="AnimatedImagePlayer-animatedImage" src="https://github.com/CyrisXD/CyrisXD/raw/master/bio.gif" style="display: block; opacity: 1;">
+          <canvas class="AnimatedImagePlayer-stillImage" aria-hidden="true" width="800" height="387"></canvas></span>
+#  <img data-target="animated-image.replacedImage" alt="gif hello" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="display: block; opacity: 1;"> Welcome! I'm Biyo, Full Stack Developer
 ### Languages and Tools:
 
 
