@@ -1,4 +1,4 @@
-# Welcome, <img data-target="animated-image.replacedImage" alt="wave.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="15px" style="display: block; opacity: 1;"> I'm Pablo, a Full Stack Developer.
+# Welcome, <img data-target="animated-image.replacedImage" width="30px" alt="wave.gif" class="AnimatedImagePlayer-animatedImage" src="https://raw.githubusercontent.com/verma-anushka/verma-anushka/master/gifs/wave.gif" width="30px" style="display: block; opacity: 1;"> I'm Pablo, a Full Stack Developer.
 
 ### 📚  I'm currently improving my skills as a programmer and learning new technologies. I enjoy ⚽ 🐕 💺.</p>
 
