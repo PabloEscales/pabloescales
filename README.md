@@ -1,6 +1,6 @@
 # 👋 Welcome, I'm Pablo, a Full Stack Developer.
 
-### 📚  I'm currently improving my skills as a programmer and learning new technologies. I enjoy ⚽ 🐕 💺.</p>
+### 📚  I'm currently improving my skills as a programmer and learning new technologies.</p>
 
 
 ## Languages and Tools:
