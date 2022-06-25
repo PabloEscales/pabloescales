@@ -1,4 +1,4 @@
-# 👋 Welcome, I'm Pablo, a Junior Software Developer.
+# 👋 Welcome, I'm Pablo, a Jr. Software Developer.
 
 ### 📚  I'm currently improving my skills as a programmer and learning new technologies.</p>
 
