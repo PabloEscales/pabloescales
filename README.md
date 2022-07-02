@@ -1,6 +1,6 @@
 # 👋 Welcome, I'm Pablo, a Jr. Software Developer.
 
-### 📚  I'm currently improving my skills as a programmer and learning new technologies.</p>
+### 📚  I'm a Ruby on Rails Developer, and enjoy to learn new skills and technologies on every project.</p>
 
 
 ## Languages and Tools:
