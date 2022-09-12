@@ -1,8 +1,8 @@
 # Welcome 👋
 
-# I'm Pablo, a Full Stack Developer.
+# I'm Pablo, 
 
-### 📚  I'm a Ruby on Rails Developer, and enjoy to learn new skills and technologies on every project.</p>
+### 📚  a Frontend Developer and enjoy learning new technologies in every challenge..</p>
 
 
 ## Languages and Tools:
