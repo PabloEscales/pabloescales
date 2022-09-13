@@ -6,7 +6,7 @@
 ## Languages and Tools:
 
 <p>
-  <a href="https://www.javascript.com/" rel="nofollow" target="_blank">
+  <a href="https://www.javascript.com/" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://reactjs.org/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://azure.microsoft.com/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="40" height="40" style="max-width: 100%;"></a> 
