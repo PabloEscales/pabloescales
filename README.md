@@ -1,7 +1,6 @@
 # Welcome 👋
 
-### 📚 I'm Pablo, a Frontend Developer and enjoy learning new technologies in every challenge.</p>
-
+### 📚 I'm Pablo, Frontend Developer who enjoy learning new technologies in every challenge.</p>
 
 ## Languages and Tools:
 
