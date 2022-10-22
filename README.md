@@ -2,7 +2,7 @@
 
 ### 📚 I'm Pablo, Frontend Developer who enjoy learning new technologies in every challenge.</p>
 
-## Languages and Tools:
+## Skills and techs:
 
 <p>
   <a href="https://www.javascript.com/" rel="nofollow" target="_blank">
