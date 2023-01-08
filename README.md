@@ -1,6 +1,6 @@
 # Welcome 👋
 
-### 📚 I'm Pablo, Full Stack Developer who enjoy learning new technologies in every challenge.</p>
+### 📚 I'm Pablo, Frontend Web Developer who enjoy learning new technologies in every challenge.</p>
 
 ## Skills and techs:
 
