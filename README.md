@@ -2,7 +2,7 @@
 
 ### 📚 I'm Pablo, Full Stack Web Developer who enjoy learning new technologies in every challenge.</p>
 
-## Look at my Portfolio in progress...
+## Look at my Portfolio in progress:
 ### https://pabloescalesportfolio.vercel.app/
 
 ## Skills and techs:
