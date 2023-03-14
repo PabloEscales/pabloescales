@@ -1,6 +1,6 @@
 # Welcome 👋
 
-### 📚 I'm Pablo, Jr. Full-Stack Web Developer who enjoy learning new technologies in every challenge 🎓</p> 
+### 📚 I'm Pablo, a Full-Stack Web Developer with 12 years of experience in Real Estate Legal Management. My passion for problem solving and creative solutions inspired me to change my career path and transition from Lawyer to Web Development. 🎓</p> 
 
 ### Look at my Portfolio: https://pablofolio.vercel.app/
 
