@@ -1,6 +1,6 @@
 # Welcome 👋
 
-### 📚 I'm Pablo, a Full-Stack Web Developer with 12 years of experience in Real Estate Legal Management. My passion for problem solving and creative solutions inspired me to change my career path and transition from Lawyer to Web Developer. 🎓</p> 
+### 📚 I'm Pablo, a Frontend Web Developerwith 12 years of experience in Real Estate Legal Management. My passion for problem solving and creative solutions inspired me to change my career path and transition from Lawyer to Web Developer. 🎓</p> 
 
 ### Look at my Portfolio: https://pablofolio.vercel.app/
 
