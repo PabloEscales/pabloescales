@@ -1,6 +1,7 @@
 # Welcome 👋
 
-### 📚 I'm Pablo, my passion for problem solving and creative solutions inspired me to change my career path and transition from Lawyer to Web Developer. Happy with this change, I've been working in my new profession for more than a year with a focus on web development.🎓</p> 
+### 📚 I'm Pablo, my passion for problem solving and creative solutions inspired me to change my career path and transition from Lawyer to Web Developer. 
+### Happy with this change, I've been working in my new profession for more than a year with a focus on web development.🎓</p> 
 
 ### Look at my Portfolio: https://pablofolio.vercel.app/
 
