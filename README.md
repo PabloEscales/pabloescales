@@ -1,6 +1,6 @@
 # Welcome, I'm Pablo 👋
 
-###  I work and program in React and JavaScript. My passion for problem solving and creative solutions inspired me to change my career path and transition from Lawyer to Web Developer. 🎓
+###  Working and programming in React and JavaScript, driven to always adding value for the user. My passion for problem solving and creative solutions inspired me to change my career path and transition from Lawyer to Web Developer. 🎓
 
 ### Look at my Portfolio: https://pablofolio.vercel.app/
 
