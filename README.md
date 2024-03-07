@@ -7,17 +7,16 @@
 <p>
   <a href="https://aws.amazon.com/" rel="nofollow" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="60" height="40" style="max-width: 100%;"></a>
   <a href="https://azure.microsoft.com/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="60" height="60" style="max-width: 100%;"></a>
-<a href="https://kubernetes.io/" rel="nofollow" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Kubernetes_logo.svg/1024px-Kubernetes_logo.svg.png" alt="Kubernetes" width="40" height="40" style="max-width: 100%;">
-</a>
 
 <a href="https://www.docker.com/" rel="nofollow" target="_blank">
-  <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Docker" width="40" height="40" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-plain.svg" alt="Docker" width="40" height="40" style="max-width: 100%;">
 </a>
 
+
 <a href="https://kubernetes.io/" rel="nofollow" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kubernetes_logo.png/1280px-Kubernetes_logo.png" alt="Kubernetes" width="40" height="40" style="max-width: 100%;">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kubernetes/kubernetes-plain.svg" alt="Kubernetes" width="40" height="40" style="max-width: 100%;">
 </a>
+
  
   <a href="https://www.javascript.com/" rel="nofollow" target="_blank">
   <a href="https://git-scm.com/" rel="nofollow" target="_blank">
