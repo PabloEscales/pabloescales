@@ -6,7 +6,7 @@
 
 <p>
   <a href="https://aws.amazon.com/" rel="nofollow" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="40" height="60" style="max-width: 100%;">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="60" height="40" style="max-width: 100%;">
 </a>
   <a href="https://www.javascript.com/" rel="nofollow" target="_blank">
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"></a>
