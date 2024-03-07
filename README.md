@@ -12,11 +12,11 @@
 </a>
 
 <a href="https://www.docker.com/" rel="nofollow" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Docker_%28container_engine%29_logo.png/640px-Docker_%28container_engine%29_logo.png" alt="Docker" width="40" height="40" style="max-width: 100%;">
+  <img src="https://www.docker.com/sites/default/files/d8/2019-07/vertical-logo-monochromatic.png" alt="Docker" width="40" height="40" style="max-width: 100%;">
 </a>
 
-<a href="https://helm.sh/" rel="nofollow" target="_blank">
-  <img src="https://helm.sh/img/helm.svg" alt="Helm" width="40" height="40" style="max-width: 100%;">
+<a href="https://kubernetes.io/" rel="nofollow" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Kubernetes_logo.png/1280px-Kubernetes_logo.png" alt="Kubernetes" width="40" height="40" style="max-width: 100%;">
 </a>
  
   <a href="https://www.javascript.com/" rel="nofollow" target="_blank">
