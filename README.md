@@ -8,6 +8,9 @@
   <a href="https://aws.amazon.com/" rel="nofollow" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Amazon_Web_Services_Logo.svg/512px-Amazon_Web_Services_Logo.svg.png" alt="AWS" width="60" height="40" style="max-width: 100%;"></a>
   <a href="https://azure.microsoft.com/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" alt="azure" width="60" height="60" style="max-width: 100%;"></a> 
   <a href="https://www.javascript.com/" rel="nofollow" target="_blank">
+  <a href="https://git-scm.com/" rel="nofollow" target="_blank">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git" width="70" height="40" style="max-width: 100%;">
+</a>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://reactjs.org/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://nextjs.org/" rel="nofollow"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40" style="max-width: 100%;"></a>
@@ -23,9 +26,6 @@
   <a href="https://www.ruby-lang.org/en/" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ruby/ruby-original.svg" alt="ruby" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://sass-lang.com" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" style="max-width: 100%;"> </a> <a href="https://webpack.js.org" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40" style="max-width: 100%;"></a>
   <a href="https://trello.com/es" rel="nofollow"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-plain-wordmark.svg" alt="bootstrap" width="40" height="40" style="max-width: 100%;"></a>
-  <a href="https://git-scm.com/" rel="nofollow" target="_blank">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Git-logo.svg/1280px-Git-logo.svg.png" alt="Git" width="40" height="40" style="max-width: 100%;">
-</a>
 </p>
 
 ### Contact me:
