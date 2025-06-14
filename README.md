@@ -1,6 +1,6 @@
 # Welcome, I'm Pablo 👋
 
-###  Working and programming to always adding value for the user. My passion for problem solving and creative solutions inspired me to change my career path and transition from Lawyer to Developer. 🎓
+###  I've built my career around cloud technologies and DevOps practices, working on projects for startups and multinational companies, gaining hands-on experience with leading cloud providers such as Microsoft Azure, AWS, and GCP.
 
 ## Skills and techs:
 
